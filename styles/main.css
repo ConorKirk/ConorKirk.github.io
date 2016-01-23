@@ -4,4 +4,7 @@ a {
 
 .page-wrapper {
   backround: url(Backround.jpg) no-repeat top left;
+  padding: 0 175px 0 110px;
+  margin: 0;
+  position: relative;
 }
