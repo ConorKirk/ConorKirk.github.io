@@ -1,9 +1,7 @@
-body {
-  background:#999;
-  font-family: arial;
-}
-
-
 a {
   color: green;
+}
+
+.page-wrapper {
+  backround: url(Backround.jpg) no-repeat top left;
 }
