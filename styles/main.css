@@ -20,5 +20,9 @@ h2 {
 }
 
 li {
-  text-align: center;
+  text-align: left;
+}
+
+body {
+  backround: #696969;
 }
