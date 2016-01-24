@@ -1,3 +1,8 @@
+body
+ {
+  backround: #E0E0E0;
+}
+
 a {
   color: green;
 }
@@ -23,7 +28,3 @@ li {
   text-align: left;
 }
 
-body {
-  backround: #999;
-  font-family: arial;
-}
