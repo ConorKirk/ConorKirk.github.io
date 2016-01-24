@@ -24,5 +24,6 @@ li {
 }
 
 body {
-  backround-color: lightgrey;
+  backround:#999;
+  font-family: arial;
 }
