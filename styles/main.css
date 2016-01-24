@@ -1,8 +1,8 @@
-body {
-  Backround: blue;
-}
-
 a {
-  color: red;
+  color: green;
 }
 
+p {
+  text-align: center;
+  font: italic;
+}
